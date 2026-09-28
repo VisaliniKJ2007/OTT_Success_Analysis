@@ -1,0 +1,21 @@
+﻿DS_Day01_40
+40. OTT — WHAT MAKES A SHOW SUCCESSFUL?
+Industry: OTT and Entertainment
+A streaming company wants to understand what characteristics are associated with successful shows. Students receive show-level data including genre, language, runtime, release year, budget, rating and viewership. They must explore the distribution of successful and less-successful titles. They should analyse genre performance. They should investigate whether high ratings necessarily mean high viewership. They should examine language and regional patterns. They should identify combinations of characteristics associated with strong performance. Students should create a content-performance dashboard. The final output should help the content team make data-informed decisions about future productions.
+Data provided
+Show_ID, Genre, Language, Runtime, Release_Year, Budget, Rating, Viewership
+Student Tasks
+• Clean and validate the provided dataset
+Perform exploratory data analysis using suitable descriptive statistics
+Create clear visualisations for the important patterns in the data
+Students receive show-level data including genre, language, runtime, release year, budget, rating and viewership
+Explore the distribution of successful and less-successful titles
+Analyse genre performance
+Investigate whether high ratings necessarily mean high viewership
+Examine language and regional patterns
+Identify combinations of characteristics associated with strong performance
+Create a content-performance dashboard
+Specified Machine Learning Algorithm
+Random Forest
+Expected Output
+5 to 7 key insights, 4 visualisations, one trained Random Forest model, model evaluation results and a practical action plan.
